@@ -6,6 +6,7 @@ This repository contains simple beginner-level C programs.
 - **hello.c**: Prints "Hello, World!"
 - **Sum.c**: Adds two integers.
 - **1st.c**: Prints a simple message / First program (replace if needed)
+- **swap.c**: swapping without using third value.
 
 ## How to Run
 1. Copy the code to your local compiler.
